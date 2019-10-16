@@ -17,4 +17,7 @@ PROPOSED PROBLEM: Park a reverse car in a Y-axis garage, using Fuzzy Logic as a 
 
 GOAL: Park the car successfully through Fuzzy Logic.
 ##
+
+IDE used: Eclipse 
+
 ![fuzzyCar(1)](https://user-images.githubusercontent.com/37044387/66887755-663cf980-efb2-11e9-906f-b40400adebfe.png)
