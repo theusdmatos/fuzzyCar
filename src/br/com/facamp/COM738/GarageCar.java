@@ -216,7 +216,7 @@ public class GarageCar extends JPanel {
 	}
 	
 
-	//Posições determinas, sorteio delas
+	//Posições determinadas, sorteio delas
 	public int minY() {
 	
 		 ArrayList<Integer> listPosY = new ArrayList<Integer>();
