@@ -54,7 +54,7 @@ END_DEFUZZIFY
 
 RULEBLOCK No1
 
-    AND : MIN;	// Use 'min' for 'and'
+        AND : MIN;	// Use 'min' for 'and'
 	ACT : MIN;	// Use 'min' activation method
 	ACCU : MAX;	// Use 'max' accumulation method
 	
@@ -95,7 +95,7 @@ RULEBLOCK No1
 	RULE 29 : IF positionCar IS RC AND angleCar IS LU THEN angleWheel IS NS;
 	RULE 30 : IF positionCar IS RI AND angleCar IS LU THEN angleWheel IS PS;
 	
-    RULE 31 : IF positionCar IS LE AND angleCar IS LB THEN angleWheel IS NB;
+        RULE 31 : IF positionCar IS LE AND angleCar IS LB THEN angleWheel IS NB;
 	RULE 32 : IF positionCar IS LC AND angleCar IS LB THEN angleWheel IS NB;
 	RULE 33 : IF positionCar IS CE AND angleCar IS LB THEN angleWheel IS NM;
 	RULE 34 : IF positionCar IS RC AND angleCar IS LB THEN angleWheel IS NM;
