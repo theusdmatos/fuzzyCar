@@ -4,7 +4,7 @@ Fuzzy logic is logic based on fuzzy set theory. It differs from traditional logi
 In fuzzy logic, the truth value of a proposition can be a fuzzy subset of any partially ordered set, unlike binary logic systems, where the truth value can only assume two values: true (1) or false (0). In multi-value logic systems, the truth value of a proposition can be either an element of a finite set in a range or a boolean algebra. In fuzzy logic, truth values ​​are expressed linguistically, (eg, near, very close, far, far away), where each linguistic term is interpreted as a fuzzy subset of the unit range.
 The principles are: Fuzzy logic allows you to specify how well an object satisfies a vague description, it reflects what people think, it works with a wide range of vague and uncertain information, which can be translated by expressions like: more or less , maybe and etc. The reasoning of the Fuzzy logic consists of 3 steps which are: Fuzzification, Inference (Aggregation / Composition) and Defuzzification
 
-# 
+# # 
 FUZZIFICATION: Stage in which linguistic variables are subjectively defined, as well as member functions (membership functions). It comprises: problem analysis, definition of variables, definition of pertinence functions, creation of regions.
 
 INFERENCE: The stage at which propositions (rules) are defined and then examined in parallel. Includes: definition of propositions, analysis of rules, creation of the resulting region.
