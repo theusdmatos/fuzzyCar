@@ -18,6 +18,7 @@ GOAL: Park the car successfully through Fuzzy Logic.
 ##
 
 IDE used: Eclipse 
-OS used : Arch Linux - KDE
+#
+Distro used : Arch Linux - KDE
 
 ![fuzzyCar(1)](https://user-images.githubusercontent.com/37044387/66887755-663cf980-efb2-11e9-906f-b40400adebfe.png)
